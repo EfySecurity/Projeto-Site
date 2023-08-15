@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Meu Site Melhorado</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Meu Site Melhorado</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="servicos.html">Serviços</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>Entre em Contato</h2>
+            <p>Envie-nos uma mensagem e entraremos em contato em breve.</p>
+            
+            <form action="#" method="post" id="form-contato">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required>
+                
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+                
+                <input type="submit" value="Enviar">
+            </form>
+            
+            <div id="mensagem-sucesso" class="hidden">Mensagem enviada com sucesso!</div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="rodape-info">
+                <div class="endereco">
+                    <h4>Endereço</h4>
+                    <p>Rua Exemplo, 123</p>
+                    <p>Cidade Exemplo</p>
+                </div>
+                <div class="contato">
+                    <h4>Contato</h4>
+                    <p>Email: contato@meusitemelhorado.com</p>
+                    <p>Telefone: (00) 1234-5678</p>
+                </div>
+                <div class="redes-sociais">
+                    <h4>Redes Sociais</h4>
+                    <a href="#">Facebook</a>
+                    <a href="#">Twitter</a>
+                    <a href="#">Instagram</a>
+                </div>
+            </div>
+            
+            <p class="direitos-autorais">&copy; 2023 Meu Site Melhorado. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
