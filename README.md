@@ -1,6 +1,6 @@
-# Meu Site
+# CyberGuard Site
 
-Este é um projeto de site básico desenvolvido usando HTML, CSS e um pouco de JavaScript. O objetivo deste projeto é demonstrar diferentes elementos e técnicas de design para criar um site funcional com várias páginas.
+Bem-vindo ao projeto **CyberGuard Site**, um site de exemplo desenvolvido usando HTML, CSS e JavaScript para demonstrar diferentes elementos e técnicas de design.
 
 ## Páginas
 
@@ -24,8 +24,8 @@ O site é composto pelas seguintes páginas:
 
 ## Instalação
 
-1. Clone este repositório: `git clone [https://github.com/seu-usuario/meu-site-melhorado](https://github.com/EfySecurity/Projeto-Site).git`
-2. Navegue até a pasta do projeto: `cd Projeto-Site`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/cyberguard-site.git`
+2. Navegue até a pasta do projeto: `cd cyberguard-site`
 
 ## Como Usar
 
@@ -47,3 +47,5 @@ Email: efy.security@proton.me
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
+
+Sinta-se à vontade para personalizar este `README.md` de acordo com as informações específicas do seu projeto. Certifique-se de incluir detalhes relevantes sobre o projeto, suas funcionalidades e como executá-lo.
