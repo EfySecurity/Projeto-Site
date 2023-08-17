@@ -47,5 +47,3 @@ Email: efy.security@proton.me
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
-
-Sinta-se à vontade para personalizar este `README.md` de acordo com as informações específicas do seu projeto. Certifique-se de incluir detalhes relevantes sobre o projeto, suas funcionalidades e como executá-lo.
